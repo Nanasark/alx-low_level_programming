@@ -1,19 +1,5 @@
-
-#include <stdio.h>
-
-/**
-
- *
-
- *  * Betty style commenting.
-
- *
-
- *   *simple c code.
-
- *
-
- *    */
+#include <stdio.h
+/* Betty style commenting */
 
 int main(void)
 
