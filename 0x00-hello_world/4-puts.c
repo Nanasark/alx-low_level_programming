@@ -1,4 +1,5 @@
-#include <stdio.h
+#include <stdio.h>
+
 /* Betty style commenting */
 
 int main(void)
