@@ -4,9 +4,7 @@
  *
  * Comment here.
  *
- * Betty shit style.
- *
- * 
+ * Betty shit style. 
  */
 
 int main(void)
