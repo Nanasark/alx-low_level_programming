@@ -1,12 +1,5 @@
 #include <stdio.h>
 
-/**
- *
- * Comment here.
- *
- * Betty shit style. 
- */
-
 int main(void)
 
 {
