@@ -2,9 +2,9 @@
 
 /**
  *
- *  * Comment here.
+ * Comment here.
  *
- *   * Betty shit style.
+ * Betty shit style.
  *
  * 
  */
