@@ -7,7 +7,7 @@
  *   * Betty shit style.
  *
  * 
-*/
+ */
 
 int main(void)
 
