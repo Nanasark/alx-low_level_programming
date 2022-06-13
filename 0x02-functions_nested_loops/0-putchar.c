@@ -7,8 +7,6 @@
 
  * main - prints a string
 
- *
-
  * Return: 0
 
  */
