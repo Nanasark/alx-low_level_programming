@@ -4,11 +4,8 @@
 
 
 /**
-
  * main - prints a string
-
  * Return: 0
-
  */
 
 int main(void)
