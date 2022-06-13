@@ -5,18 +5,18 @@
  */
 
 void jack_bauer(void)
-
 {
 	int p = 0, q, x, y;
+
 	while (p < 3)
 	{
 		q = 0;
 
 		while (q < 10)
-
 		{
 			x = 0;
 			while (x < 6)
+
 			{
 				y = 0;
 
